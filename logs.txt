@@ -1,0 +1,10 @@
+[INFO] System started
+[DEBUG] Checking sensors
+[DATA] TEMP: 23.5
+[INFO] Heartbeat
+[DATA] TEMP: 24.1
+[WARN] High CPU usage
+[DATA] TEMP:25.0
+[DATA] HUMIDITY: 60%
+[DATA] TEMP: 24.8
+[INFO] System shutdown
